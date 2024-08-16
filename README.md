@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*kiRZQkovNoVCTAW4rB7oVQ.png" width="200" >
-  # Swagger
-</div>
+# Swagger haqida to'liq ma'lumot
 
 ## 1. Swagger'ning Asosiy Tarkibi
 Swagger RESTful API'larni loyihalash, hujjatlashtirish, test qilish va boshqarish uchun ishlatiladigan vositalar to'plamidir. Asosiy komponentlari quyidagilardan iborat:
@@ -65,4 +62,3 @@ Swagger ko'pincha quyidagi holatlarda ishlatiladi:
   - Swagger Codegen vositasi yordamida server yoki mijoz tomonidagi dastur kodini avtomatik generatsiya qilish.
 
 Swagger zamonaviy web-dasturlashda keng qo'llaniladigan, API'larni ishlab chiqish va boshqarishni sezilarli darajada soddalashtiruvchi kuchli vosita hisoblanadi.
-
