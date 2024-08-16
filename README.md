@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*kiRZQkovNoVCTAW4rB7oVQ.png" width="">
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*kiRZQkovNoVCTAW4rB7oVQ.png" width="200">
 # Swagger
 </div>
 
