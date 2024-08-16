@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*kiRZQkovNoVCTAW4rB7oVQ.png" width="200">
-# Swagger
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*kiRZQkovNoVCTAW4rB7oVQ.png" width="200 ">
+
 </div>
-# Swagger
+#Swagger
 
 ## 1. Swagger'ning Asosiy Tarkibi
 Swagger RESTful API'larni loyihalash, hujjatlashtirish, test qilish va boshqarish uchun ishlatiladigan vositalar to'plamidir. Asosiy komponentlari quyidagilardan iborat:
